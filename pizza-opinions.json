@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Domino's",
+        "rating": "5/5",
+        "comments": "Cheap pizzas, good quality, go-to option.",
+        "author": "pizzalover125"
+    },
+    {
+        "name": "Pizza Hut",
+        "rating": "3/5",
+        "comments": "Inconsistent quality, but good when it's good.",
+        "author": "pizzalover125"
+    },
+    {
+        "name": "Papa John's",
+        "rating": "2/5",
+        "comments": "Used to be good, but quality has gone down.",
+        "author": "pizzalover125"
+    },
+    {
+        "name": "Little Caesars",
+        "rating": "3/5",
+        "comments": "Really cheap pizza, but quality is usually bad.",
+        "author": "pizzalover125"
+    },
+    {
+        "name": "Costco Food Court",
+        "rating": "2/5",
+        "comments": "Cheapest of the cheapest pizzas, but way too greasy and oily.",
+        "author": "pizzalover125"
+    }
+]

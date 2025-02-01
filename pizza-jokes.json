@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "joke": "Why did the hipster burn his mouth?",
+        "answer": "He ate his pizza before it was cool."
+    },
+    {
+        "id": 2,
+        "joke": "What type of person doesn’t like pizza?",
+        "answer": "A weir-dough."
+    },
+    {
+        "id": 3,
+        "joke": "What does an aardvark like on its pizza?",
+        "answer": "Ant-chovies."
+    },
+    {
+        "id": 4,
+        "joke": "What’s a pizza maker’s favorite song?",
+        "answer": "Slice, Slice Baby."
+    },
+    {
+        "id": 5,
+        "joke": "What do you call a sleeping pizza?",
+        "answer": "A piZZZZa."
+    },
+    {
+        "id": 6,
+        "joke": "What’s a pizza’s favorite movie?",
+        "answer": "Pie Hard."
+    },
+    {
+        "id": 7,
+        "joke": "What did the pizza say to the delivery guy?",
+        "answer": "You don’t pepper-own me."
+    },
+    {
+        "id": 8,
+        "joke": "What’s a pizza’s favorite type of joke?",
+        "answer": "A cheesy one."
+    },
+    {
+        "id": 9,
+        "joke": "Why did the pizza maker go to jail?",
+        "answer": "He got caught with too much dough."
+    },
+    {
+        "id": 10,
+        "joke": "What do you call a fake pizza?",
+        "answer": "A pepperphony."
+    },
+    {
+        "id": 11,
+        "joke": "Why did the pizza cross the road?",
+        "answer": "To get to the other slice."
+    },
+    {
+        "id": 12,
+        "joke": "What’s a pizza’s favorite game?",
+        "answer": "Dominoes."
+    },
+    {
+        "id": 13,
+        "joke": "What do you call a pizza with no toppings?",
+        "answer": "A plain pizza."
+    },
+    {
+        "id": 14,
+        "joke": "What’s a pizza’s favorite type of music?",
+        "answer": "Rock and roll."
+    },
+    {
+        "id": 15,
+        "joke": "Why did the pizza go to the party?",
+        "answer": "Because it was a slice of fun."
+    },
+    {
+        "id": 16,
+        "joke": "What’s a pizza’s favorite type of movie?",
+        "answer": "A slice of life."
+    },
+    {
+        "id": 17,
+        "joke": "What do you call a pizza that tells jokes?",
+        "answer": "A pun-za."
+    },
+    {
+        "id": 18,
+        "joke": "Why did the pizza go to the doctor?",
+        "answer": "It was feeling a little crusty."
+    },
+    {
+        "id": 19,
+        "joke": "What’s a pizza’s favorite type of weather?",
+        "answer": "A drizzle."
+    },
+    {
+        "id": 20,
+        "joke": "What do you call a pizza with no cheese?",
+        "answer": "A saucy pizza."
+    },
+    {
+        "id": 21,
+        "joke": "Why did the pizza go to school?",
+        "answer": "To get a little more dough."
+    },
+    {
+        "id": 22,
+        "joke": "What’s a pizza’s favorite type of exercise?",
+        "answer": "Crunches."
+    },
+    {
+        "id": 23,
+        "joke": "What do you call a pizza with no sauce?",
+        "answer": "A dry pizza."
+    },
+    {
+        "id": 24,
+        "joke": "Why did the pizza go to the gym?",
+        "answer": "To get a little more crust."
+    },
+    {
+        "id": 25,
+        "joke": "What’s a pizza’s favorite type of dance?",
+        "answer": "The twist."
+    },
+    {
+        "id": 26,
+        "joke": "What do you call a pizza with no toppings?",
+        "answer": "A plain pizza."
+    },
+    {
+        "id": 27,
+        "joke": "Why did the pizza go to the beach?",
+        "answer": "To get a little more tan."
+    },
+    {
+        "id": 28,
+        "joke": "What’s a pizza’s favorite type of sport?",
+        "answer": "Baseball, because of the bases."
+    },
+    {
+        "id": 29,
+        "joke": "What do you call a pizza with no crust?",
+        "answer": "A saucy pizza."
+    },
+    {
+        "id": 30,
+        "joke": "Why did the pizza go to the park?",
+        "answer": "To get a little more fresh air."
+    },
+    {
+        "id": 31,
+        "joke": "What’s a pizza’s favorite type of book?",
+        "answer": "A slice of life."
+    },
+    {
+        "id": 32,
+        "joke": "What do you call a pizza with no cheese?",
+        "answer": "A saucy pizza."
+    },
+    {
+        "id": 33,
+        "joke": "Why did the pizza go to the library?",
+        "answer": "To get a little more knowledge."
+    },
+    {
+        "id": 34,
+        "joke": "What’s a pizza’s favorite type of movie?",
+        "answer": "A slice of life."
+    },
+    {
+        "id": 35,
+        "joke": "What do you call a pizza with no toppings?",
+        "answer": "A plain pizza."
+    },
+    {
+        "id": 36,
+        "joke": "Why did the pizza go to the museum?",
+        "answer": "To get a little more culture."
+    },
+    {
+        "id": 37,
+        "joke": "What’s a pizza’s favorite type of music?",
+        "answer": "Rock and roll."
+    },
+    {
+        "id": 38,
+        "joke": "What do you call a pizza with no sauce?",
+        "answer": "A dry pizza."
+    },
+    {
+        "id": 39,
+        "joke": "Why did the pizza go to the zoo?",
+        "answer": "To get a little more wild."
+    },
+    {
+        "id": 40,
+        "joke": "What’s a pizza’s favorite type of weather?",
+        "answer": "A drizzle."
+    },
+    {
+        "id": 41,
+        "joke": "What do you call a pizza with no cheese?",
+        "answer": "A saucy pizza."
+    },
+    {
+        "id": 42,
+        "joke": "Why did the pizza go to the mountains?",
+        "answer": "To get a little more high."
+    },
+    {
+        "id": 43,
+        "joke": "What’s a pizza’s favorite type of exercise?",
+        "answer": "Crunches."
+    },
+    {
+        "id": 44,
+        "joke": "What do you call a pizza with no crust?",
+        "answer": "A saucy pizza."
+    },
+    {
+        "id": 45,
+        "joke": "Why did the pizza go to the desert?",
+        "answer": "To get a little more dry."
+    },
+    {
+        "id": 46,
+        "joke": "What’s a pizza’s favorite type of dance?",
+        "answer": "The twist."
+    },
+    {
+        "id": 47,
+        "joke": "What do you call a pizza with no toppings?",
+        "answer": "A plain pizza."
+    },
+    {
+        "id": 48,
+        "joke": "Why did the pizza go to the forest?",
+        "answer": "To get a little more green."
+    },
+    {
+        "id": 49,
+        "joke": "What’s a pizza’s favorite type of sport?",
+        "answer": "Baseball, because of the bases."
+    },
+    {
+        "id": 50,
+        "joke": "What do you call a pizza with no sauce?",
+        "answer": "A dry pizza."
+    },
+    {
+        "id": 51,
+        "joke": "Why did the pizza go to the city?",
+        "answer": "To get a little more busy."
+    },
+    {
+        "id": 52,
+        "joke": "What’s a pizza’s favorite type of book?",
+        "answer": "A slice of life."
+    },
+    {
+        "id": 53,
+        "joke": "What do you call a pizza with no cheese?",
+        "answer": "A saucy pizza."
+    },
+    {
+        "id": 54,
+        "joke": "Why did the pizza go to the farm?",
+        "answer": "To get a little more fresh."
+    },
+    {
+        "id": 55,
+        "joke": "What’s a pizza’s favorite type of movie?",
+        "answer": "A slice of life."
+    },
+    {
+        "id": 56,
+        "joke": "What do you call a pizza with no toppings?",
+        "answer": "A plain pizza."
+    },
+    {
+        "id": 57,
+        "joke": "Why did the pizza go to the ocean?",
+        "answer": "To get a little more salty."
+    },
+    {
+        "id": 58,
+        "joke": "What’s a pizza’s favorite type of music?",
+        "answer": "Rock and roll."
+    },
+    {
+        "id": 59,
+        "joke": "What do you call a pizza with no sauce?",
+        "answer": "A dry pizza."
+    },
+    {
+        "id": 60,
+        "joke": "Why did the pizza go to the jungle?",
+        "answer": "To get a little more wild."
+    },
+    {
+        "id": 61,
+        "joke": "What’s a pizza’s favorite type of weather?",
+        "answer": "A drizzle."
+    },
+    {
+        "id": 62,
+        "joke": "What do you call a pizza with no cheese?",
+        "answer": "A saucy pizza."
+    },
+    {
+        "id": 63,
+        "joke": "Why did the pizza go to the mountains?",
+        "answer": "To get a little more high."
+    },
+    {
+        "id": 64,
+        "joke": "What’s a pizza’s favorite type of exercise?",
+        "answer": "Crunches."
+    },
+    {
+        "id": 65,
+        "joke": "What do you call a pizza with no crust?",
+        "answer": "A saucy pizza."
+    },
+    {
+        "id": 66,
+        "joke": "Why did the pizza go to the desert?",
+        "answer": "To get a little more dry."
+    },
+    {
+        "id": 67,
+        "joke": "What’s a pizza’s favorite type of dance?",
+        "answer": "The twist."
+    },
+    {
+        "id": 68,
+        "joke": "What do you call a pizza with no toppings?",
+        "answer": "A plain pizza."
+    },
+    {
+        "id": 69,
+        "joke": "Why did the pizza go to the forest?",
+        "answer": "To get a little more green."
+    },
+    {
+        "id": 70,
+        "joke": "What’s a pizza’s favorite type of sport?",
+        "answer": "Baseball, because of the bases."
+    },
+    {
+        "id": 71,
+        "joke": "What do you call a pizza with no sauce?",
+        "answer": "A dry pizza."
+    },
+    {
+        "id": 72,
+        "joke": "Why did the pizza go to the city?",
+        "answer": "To get a little more busy."
+    },
+    {
+        "id": 73,
+        "joke": "What’s a pizza’s favorite type of book?",
+        "answer": "A slice of life."
+    },
+    {
+        "id": 74,
+        "joke": "What do you call a pizza with no cheese?",
+        "answer": "A saucy pizza."
+    },
+    {
+        "id": 75,
+        "joke": "Why did the pizza go to the farm?",
+        "answer": "To get a little more fresh."
+    },
+    {
+        "id": 76,
+        "joke": "What’s a pizza’s favorite type of movie?",
+        "answer": "A slice of life."
+    },
+    {
+        "id": 77,
+        "joke": "What do you call a pizza with no toppings?",
+        "answer": "A plain pizza."
+    },
+    {
+        "id": 78,
+        "joke": "Why did the pizza go to the ocean?",
+        "answer": "To get a little more salty."
+    },
+    {
+        "id": 79,
+        "joke": "What’s a pizza’s favorite type of music?",
+        "answer": "Rock and roll."
+    },
+    {
+        "id": 80,
+        "joke": "What do you call a pizza with no sauce?",
+        "answer": "A dry pizza."
+    },
+    {
+        "id": 81,
+        "joke": "Why did the pizza go to the jungle?",
+        "answer": "To get a little more wild."
+    },
+    {
+        "id": 82,
+        "joke": "What’s a pizza’s favorite type of weather?",
+        "answer": "A drizzle."
+    },
+    {
+        "id": 83,
+        "joke": "What do you call a pizza with no cheese?",
+        "answer": "A saucy pizza."
+    },
+    {
+        "id": 84,
+        "joke": "Why did the pizza go to the mountains?",
+        "answer": "To get a little more high."
+    },
+    {
+        "id": 85,
+        "joke": "What’s a pizza’s favorite type of exercise?",
+        "answer": "Crunches."
+    },
+    {
+        "id": 86,
+        "joke": "What do you call a pizza with no crust?",
+        "answer": "A saucy pizza."
+    },
+    {
+        "id": 87,
+        "joke": "Why did the pizza go to the desert?",
+        "answer": "To get a little more dry."
+    },
+    {
+        "id": 88,
+        "joke": "What’s a pizza’s favorite type of dance?",
+        "answer": "The twist."
+    },
+    {
+        "id": 89,
+        "joke": "What do you call a pizza with no toppings?",
+        "answer": "A plain pizza."
+    },
+    {
+        "id": 90,
+        "joke": "Why did the pizza go to the forest?",
+        "answer": "To get a little more green."
+    },
+    {
+        "id": 91,
+        "joke": "What’s a pizza’s favorite type of sport?",
+        "answer": "Baseball, because of the bases."
+    },
+    {
+        "id": 92,
+        "joke": "What do you call a pizza with no sauce?",
+        "answer": "A dry pizza."
+    },
+    {
+        "id": 93,
+        "joke": "Why did the pizza go to the city?",
+        "answer": "To get a little more busy."
+    },
+    {
+        "id": 94,
+        "joke": "What’s a pizza’s favorite type of book?",
+        "answer": "A slice of life."
+    },
+    {
+        "id": 95,
+        "joke": "What do you call a pizza with no cheese?",
+        "answer": "A saucy pizza."
+    },
+    {
+        "id": 96,
+        "joke": "Why did the pizza go to the farm?",
+        "answer": "To get a little more fresh."
+    },
+    {
+        "id": 97,
+        "joke": "What’s a pizza’s favorite type of movie?",
+        "answer": "A slice of life."
+    },
+    {
+        "id": 98,
+        "joke": "What do you call a pizza with no toppings?",
+        "answer": "A plain pizza."
+    },
+    {
+        "id": 99,
+        "joke": "Why did the pizza go to the ocean?",
+        "answer": "To get a little more salty."
+    },
+    {
+        "id": 100,
+        "joke": "What’s a pizza’s favorite type of music?",
+        "answer": "Rock and roll."
+    }
+]
